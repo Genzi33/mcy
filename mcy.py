@@ -24,9 +24,8 @@ o = "\033[1;96m" # biru muda
 
 def banner():
     print("""\033[;96m
-\033[;93m     l                        l   Created by
-\033[;93m.    l     BMBF         l   /Yuume-Tzy X Aang-XD""")
-\033[;93m.    l.                       l
+\033[;93m     l                    l   Created by
+\033[;93m.    l     BMBF     l   /Yuume-Tzy X Aang-XD""")
 
 ok = []
 cp = []
